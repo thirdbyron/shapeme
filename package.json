@@ -1,0 +1,22 @@
+{
+    "name": "shapeme",
+    "version": "1.0.0",
+    "description": "This library provides a set of tools for working with geometric shapes.",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc",
+        "dev": "tsc --watch",
+        "typedoc": "typedoc --out ./docs/api ./src --readme docs/README.md",
+        "docs": "npm run typedoc"
+    },
+    "keywords": [
+        "geometry",
+        "shapes"
+    ],
+    "author": "thirdbyron",
+    "license": "ISC",
+    "devDependencies": {
+        "typedoc": "^0.23.28",
+        "typescript": "^5.0.3"
+    }
+}
