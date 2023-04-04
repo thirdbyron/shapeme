@@ -7,3 +7,5 @@ ShapeMe
 ## 2. В терминале запустите команду npm run docs и откройте index.html в docs/api
 
 ## 3. Ознакомьтесь с документацией библиотеки
+
+## 4. npm install shapeme
